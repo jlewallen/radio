@@ -10,8 +10,8 @@ KIH30	Point Arena	162.550	NORMAL	Eureka CA
 KIH31	San Luis Obispo	162.550	NORMAL	Los Angeles CA
 KIH34	Santa Barbara	162.400	NORMAL	Los Angeles CA
 KIH62	Fresno	162.400	NORMAL	Hanford CA
-KWL22	Malibu Marine	162.425	NORMAL	Los Angeles CA
-KWO37	Los Angeles	162.550	NORMAL	Los Angeles CA
+KWL22	Malibu Marine	162.425	NORMAL	Los Angeles CA #keep
+KWO37	Los Angeles	162.550	NORMAL	Los Angeles CA #keep
 WNG584	Avalon	162.525	NORMAL	Los Angeles CA
 WNG592	San Simeon	162.525	NORMAL	Los Angeles CA
 WNG595	Conway Summit	162.525	NORMAL	Reno NV
@@ -34,11 +34,13 @@ WZ2524	Bishop	162.425	NORMAL	Las Vegas NV
 WZ2530	Susanville	162.500	NORMAL	Reno NV
 WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
 
+#keeping
+
 483.98750  	WII799  	RM 	CSQ 	CVS-ALTD1 	Disp 1 - Crescenta Valley / Altadena [L-TAC 8]  	FM  	Law Dispatch
 483.36250  	WII795  	RM 	CSQ 	WHLYD-D2 	Disp 2 - West Hollywood [L-TAC 1]  	FM  	Law Dispatch
 483.21250  	WII789  	RM 	CSQ 	ELA-D3 	Disp 3 - East Los Angeles [L-TAC 6]  	FM  	Law Dispatch
 483.26250  	WII792  	RM 	CSQ 	CENTRY-D4 	Disp 4 - Century [L-TAC 9]  	FM  	Law Dispatch
-482.86250  	WII801  	RM 	CSQ 	SCV-D5 	Disp 5 - Santa Clarita [L-TAC 8]  	FM  	Law Dispatch
+#482.86250  	WII801  	RM 	CSQ 	SCV-D5 	Disp 5 - Santa Clarita [L-TAC 8]  	FM  	Law Dispatch
 482.93750  	WII791  	RM 	CSQ 	WAL-SDMD6 	Disp 6 - Walnut / San Dimas / Diamond Bar [L-TAC 7]  	FM  	Law Dispatch
 484.03750  	WII792  	RM 	CSQ 	LMT-AVAD7 	Disp 7 - Lomita / Avalon [L-TAC 2]  	FM  	Law Dispatch
 483.68750  	WQAF451  	RM 	CSQ 	INDSTRYD8 	Disp 8 - Industry [L-TAC 4]  	FM  	Law Dispatch
@@ -48,12 +50,12 @@ WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
 483.43750  	WII795  	RM 	CSQ 	SLAMDR12 	Disp 12 - South Los Angeles / Marina Del Rey [L-TAC 2]  	FM  	Law Dispatch
 483.76250  	WII789  	RM 	CSQ 	NWKPRV13 	Disp 13 - Norwalk / Pico Rivera [L-TAC 10]  	FM  	Law Dispatch
 483.13750  	WII789  	RM 	CSQ 	LKDCER14 	Disp 14 - Lakewood / Cerritos [L-TAC 3]  	FM  	Law Dispatch
-483.03750  	WII798  	RM 	CSQ 	LANPLM15 	Disp 15 - Lancaster / Palmdale [L-TAC 11]  	FM  	Law Dispatch
-484.11250  	WIM685  	RM 	100.0 PL 	LAKE DISP 	Lake Los Angeles / Bluerock / Antelope Valley [LAKE LTAC]  	FM  	Law Dispatch
-483.31250  	WIJ605  	RM 	CSQ 	TSB DISP 	Transit Services Bureau (TSB) / College Safety Bureau [TSB L-TAC]  	FM  	Law Dispatch
-453.62500  	KRW246  	RM 	136.5 PL 	TUNL DISP 	MTA Tunnel Dispatch (underground usage) [TUNL LTAC]  	FM  	Law Dispatch
-483.63750  	WIJ605  	RM 	CSQ 	AERO 	Aero Bureau Dispatch  	FM  	Law Dispatch
-483.53750  	WIJ605  	RM 	CSQ 	SUD 	Special Units Dispatch  	FM  	Law Dispatch
+#483.03750  	WII798  	RM 	CSQ 	LANPLM15 	Disp 15 - Lancaster / Palmdale [L-TAC 11]  	FM  	Law Dispatch
+#484.11250  	WIM685  	RM 	100.0 PL 	LAKE DISP 	Lake Los Angeles / Bluerock / Antelope Valley [LAKE LTAC]  	FM  	Law Dispatch
+#483.31250  	WIJ605  	RM 	CSQ 	TSB DISP 	Transit Services Bureau (TSB) / College Safety Bureau [TSB L-TAC]  	FM  	Law Dispatch
+#453.62500  	KRW246  	RM 	136.5 PL 	TUNL DISP 	MTA Tunnel Dispatch (underground usage) [TUNL LTAC]  	FM  	Law Dispatch
+#483.63750  	WIJ605  	RM 	CSQ 	AERO 	Aero Bureau Dispatch  	FM  	Law Dispatch
+#483.53750  	WIJ605  	RM 	CSQ 	SUD 	Special Units Dispatch  	FM  	Law Dispatch
 
 483.91250  	KB94197  	RM 	CSQ 	L-TAC 1 	Malibu / Lost Hills / West Hollywood  	FM  	Law Tac
 482.88750  	KB94197  	RM 	CSQ 	L-TAC 2 	South LA / Lomita / Avalon / Marina Del Rey  	FM  	Law Tac
@@ -67,19 +69,19 @@ WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
 484.01250  	KB94197  	RM 	CSQ 	L-TAC 10 	Norwalk / Pico Rivera  	FM  	Law Tac
 483.18750  	KB94197  	RM 	CSQ 	L-TAC 11 	Palmdale / Lancaster (aka AV L-TAC)  	FM  	Law Tac
 483.41250  	KB94197  	RM 	CSQ 	L-TAC 12 	Temple City  	FM  	Law Tac
-476.06250  	WQJX521  	RM 	162.2 PL 	CPTMETRO 	Compton Metro Supplemental Tac  	FMN  	Law Tac
-476.18750  	WQJX539  	RM 	162.2 PL 	PLMMETRO 	Palmdale Metro Supplemental Tac  	FMN  	Law Tac
-453.47500  	KRW246  	RM 	136.5 PL 	TUNL LTAC 	TSB Tunnels  	FM  	Law Tac
-476.10000  	WQJX521  	RM 	162.2 PL 	PARKS TAC 	Parks Bureau Tac  	FM  	Law Tac
-476.11250  	WQJX544  	RM 	CSQ 	CIVCEN L-TAC 	County Services Bureau (CSB) Civic Center  	FM  	Law Tac
-476.12500  	WQJX523  	RM 	127.3 PL 	HIDESERTHOSP 	County Services Bureau (CSB) High Desert Regional Health Center  	FMN  	Law Tac
-476.12500  	WQJX536  	RM 	162.2 PL 	MLKMAC L-TAC 	County Services Bureau (CSB) MLK Multi-Service Ambulatory Care Center  	FMN  	Law Tac
-476.13750  	WQJX538  	RM 	162.2 PL 	HRBRMC L-TAC 	County Services Bureau (CSB) Harbor-UCLA Medical Center  	FMN  	Law Tac
-476.15000  	WQJX549  	RM 	CSQ 	RLANRC L-TAC 	County Services Bureau (CSB) Rancho Los Amigos Nat'l Rehab Ctr  	FM  	Law Tac
-476.16250  	WQJX552  	RM 	162.2 PL 	OVUCLA L-TAC 	County Services Bureau (CSB) Olive View-UCLA Medical Center  	FMN  	Law Tac
-483.06250  	WIJ605  	RM 	CSQ 	TSB L-TAC 	Transit Services Bureau (TSB) / College Safety Bureau  	FM  	Law Tac
-483.73750  	  	RM 	110.9 PL 	LAKE LTAC 	Lake Los Angeles (Bluerock / Antelope Valley)  	FM  	Law Tac
-483.88750  	WII825  	RM 	186.2 PL 	LACUSC L-TAC 	County Services Bureau (CSB) LAC+USC Medical Center  	FM  	Law Tac
+#476.06250  	WQJX521  	RM 	162.2 PL 	CPTMETRO 	Compton Metro Supplemental Tac  	FMN  	Law Tac
+#476.18750  	WQJX539  	RM 	162.2 PL 	PLMMETRO 	Palmdale Metro Supplemental Tac  	FMN  	Law Tac
+#453.47500  	KRW246  	RM 	136.5 PL 	TUNL LTAC 	TSB Tunnels  	FM  	Law Tac
+#476.10000  	WQJX521  	RM 	162.2 PL 	PARKS TAC 	Parks Bureau Tac  	FM  	Law Tac
+#476.11250  	WQJX544  	RM 	CSQ 	CIVCEN L-TAC 	County Services Bureau (CSB) Civic Center  	FM  	Law Tac
+#476.12500  	WQJX523  	RM 	127.3 PL 	HIDESERTHOSP 	County Services Bureau (CSB) High Desert Regional Health Center  	FMN  	Law Tac
+#476.12500  	WQJX536  	RM 	162.2 PL 	MLKMAC L-TAC 	County Services Bureau (CSB) MLK Multi-Service Ambulatory Care Center  	FMN  	Law Tac
+#476.13750  	WQJX538  	RM 	162.2 PL 	HRBRMC L-TAC 	County Services Bureau (CSB) Harbor-UCLA Medical Center  	FMN  	Law Tac
+#476.15000  	WQJX549  	RM 	CSQ 	RLANRC L-TAC 	County Services Bureau (CSB) Rancho Los Amigos Nat'l Rehab Ctr  	FM  	Law Tac
+#476.16250  	WQJX552  	RM 	162.2 PL 	OVUCLA L-TAC 	County Services Bureau (CSB) Olive View-UCLA Medical Center  	FMN  	Law Tac
+#483.06250  	WIJ605  	RM 	CSQ 	TSB L-TAC 	Transit Services Bureau (TSB) / College Safety Bureau  	FM  	Law Tac
+#483.73750  	  	RM 	110.9 PL 	LAKE LTAC 	Lake Los Angeles (Bluerock / Antelope Valley)  	FM  	Law Tac
+#483.88750  	WII825  	RM 	186.2 PL 	LACUSC L-TAC 	County Services Bureau (CSB) LAC+USC Medical Center  	FM  	Law Tac
 
 483.08750  	KB94197  	RM 	CSQ 	A-TAC 1 	North County Tactical  	FM  	Law Tac
 483.16250  	KB94197  	RM 	CSQ 	A-TAC 2 	West County Tactical  	FM  	Law Tac
@@ -111,8 +113,8 @@ WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
 484.91250  	WIJ797  	RM 	466 NAC 	23 VTD 	Valley Traffic (23)  	P25  	Law Dispatch
 484.81250  	WIL882  	RM 	466 NAC 	24 CTD 	Central Traffic (24)  	P25  	Law Dispatch
 484.33750  	WIJ799  	RM 	466 NAC 	25 STD 	South Traffic (25)  	P25  	Law Dispatch
-484.48750  	WPRJ338  	RM 	466 NAC 	29 SECSD 	Security Services Division (36)  	P25  	Law Dispatch
-506.58750  	WPLT625  	RM 	466 NAC 	48 TSD CW 6 	Transit Division (31)  	P25  	Law Dispatch
+#484.48750  	WPRJ338  	RM 	466 NAC 	29 SECSD 	Security Services Division (36)  	P25  	Law Dispatch
+#506.58750  	WPLT625  	RM 	466 NAC 	48 TSD CW 6 	Transit Division (31)  	P25  	Law Dispatch
 506.70000  	WPLQ343  	RM 	466 NAC 	101 CENT FBK 	Central (1)  	P25  	Law Talk
 484.67500  	WPLQ343  	RM 	466 NAC 	102 RAMP FBK 	Rampart (2)  	P25  	Law Talk
 507.17500  	WPLQ343  	RM 	466 NAC 	103 SWD FBK 	Southwest (3)  	P25  	Law Talk
@@ -146,12 +148,16 @@ WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
 484.41250  	WIJ803  	RM 	466 NAC 	40 OWB TAC2 	West Bureau Tac 2  	P25  	Law Tac
 507.01250  	WIL868  	RM 	466 NAC 	41 OVB TAC1 	Valley Bureau Tac 1  	P25  	Law Tac
 507.22500  	WIJ797  	RM 	466 NAC 	42 OVB TAC2 	Valley Bureau Tac 2  	P25  	Law Tac
+
+#keeping
+
 507.08750  	KJC625  	RM 	466 NAC 	43 CW TAC1 	Citywide Tac 1  	P25  	Law Tac
 484.66250  	WIL868  	RM 	466 NAC 	44 CW TAC2 	Citywide Tac 2  	P25  	Law Tac
 484.76250  	WIL868  	RM 	466 NAC 	45 CW TAC3 	Citywide Tac 3  	P25  	Law Tac
 484.46250  	WIL868  	RM 	466 NAC 	46 CW TAC4 	Citywide Tac 4  	P25  	Law Tac
 484.63750  	WIL868  	RM 	466 NAC 	47 CW TAC5 	Citywide Tac 5  	P25  	Law Tac
 484.98750  	WIL868  	RM 	466 NAC 	49 CW TAC7 	Citywide Tac 7  	P25  	Law Tac
+
 506.86250  	WPRJ338  	RM 	466 NAC 	30 JUVENILE 	Juvenile Division  	P25  	Law Tac
 506.36250  	WPRJ338  	RM 	466 NAC 	32 TID ADMIN 	Technical Investigation Division  	P25  	Law Tac
 484.56250  	WPRJ338  	RM 	466 NAC 	52 CCD 	Commercial Crimes  	P25e  	Law Tac
