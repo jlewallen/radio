@@ -1,0 +1,205 @@
+KAD94	Yosemite	162.450	NORMAL	Hanford CA
+KDX54	Big Rock Ridge	162.500	NORMAL	San Francisco CA
+KEC49	Monterey	162.550	NORMAL	San Francisco CA
+KEC57	Sacramento	162.550	NORMAL	Sacramento CA
+KEC62	San Diego	162.400	NORMAL	San Diego CA
+KEC82	Eureka	162.400	NORMAL	Eureka CA
+KHB49	San Francisco	162.400	NORMAL	San Francisco CA
+KIG78	Coachella	162.400	NORMAL	San Diego CA
+KIH30	Point Arena	162.550	NORMAL	Eureka CA
+KIH31	San Luis Obispo	162.550	NORMAL	Los Angeles CA
+KIH34	Santa Barbara	162.400	NORMAL	Los Angeles CA
+KIH62	Fresno	162.400	NORMAL	Hanford CA
+KWL22	Malibu Marine	162.425	NORMAL	Los Angeles CA
+KWO37	Los Angeles	162.550	NORMAL	Los Angeles CA
+WNG584	Avalon	162.525	NORMAL	Los Angeles CA
+WNG592	San Simeon	162.525	NORMAL	Los Angeles CA
+WNG595	Conway Summit	162.525	NORMAL	Reno NV
+WNG637	San Diego Marine	162.425	NORMAL	San Diego CA
+WNG655	Contra Costa County	162.425	NORMAL	San Francisco CA
+WNG659	El Paso Mtns.	162.425	NORMAL	Hanford CA
+WNG712	Coachella / Spanish	162.525	OUT OF SERVICE	San Diego CA
+WNG720	Ukiah	162.525	NORMAL	Eureka CA
+WWF62	Santa Barbara Marine	162.475	NORMAL	Los Angeles CA
+WWF64	Monterey Marine	162.450	NORMAL	San Francisco CA
+WWF67	Grass Valley	162.400	NORMAL	Sacramento CA
+WWG21	Santa Ana	162.450	NORMAL	San Diego CA
+WXL87	Yuma	162.550	NORMAL	Phoenix AZ
+WXL88	Redding	162.550	NORMAL	Sacramento CA
+WXL89	Bakersfield	162.550	NORMAL	Hanford CA
+WXM66	Victorville	162.500	NORMAL	San Diego CA
+WZ2504	Sonoma County	162.475	NORMAL	San Francisco CA
+WZ2505	Sandberg	162.425	NORMAL	Los Angeles CA
+WZ2524	Bishop	162.425	NORMAL	Las Vegas NV
+WZ2530	Susanville	162.500	NORMAL	Reno NV
+WZ2550	Horse Mtn	162.450	NORMAL	Eureka CA
+
+483.98750  	WII799  	RM 	CSQ 	CVS-ALTD1 	Disp 1 - Crescenta Valley / Altadena [L-TAC 8]  	FM  	Law Dispatch
+483.36250  	WII795  	RM 	CSQ 	WHLYD-D2 	Disp 2 - West Hollywood [L-TAC 1]  	FM  	Law Dispatch
+483.21250  	WII789  	RM 	CSQ 	ELA-D3 	Disp 3 - East Los Angeles [L-TAC 6]  	FM  	Law Dispatch
+483.26250  	WII792  	RM 	CSQ 	CENTRY-D4 	Disp 4 - Century [L-TAC 9]  	FM  	Law Dispatch
+482.86250  	WII801  	RM 	CSQ 	SCV-D5 	Disp 5 - Santa Clarita [L-TAC 8]  	FM  	Law Dispatch
+482.93750  	WII791  	RM 	CSQ 	WAL-SDMD6 	Disp 6 - Walnut / San Dimas / Diamond Bar [L-TAC 7]  	FM  	Law Dispatch
+484.03750  	WII792  	RM 	CSQ 	LMT-AVAD7 	Disp 7 - Lomita / Avalon [L-TAC 2]  	FM  	Law Dispatch
+483.68750  	WQAF451  	RM 	CSQ 	INDSTRYD8 	Disp 8 - Industry [L-TAC 4]  	FM  	Law Dispatch
+484.16250  	WII792  	RM 	CSQ 	CARS-CPT9 	Disp 9 - Carson / Compton / METROLINK [L-TAC 5]  	FM  	Law Dispatch
+482.91250  	WII794  	RM 	CSQ 	LHS-D10 	Disp 10 - Malibu / Lost Hills [L-TAC 1]  	FM  	Law Dispatch
+482.98750  	WII789  	RM 	CSQ 	TEM-D11 	Disp 11 - Temple City [L-TAC 12]  	FM  	Law Dispatch
+483.43750  	WII795  	RM 	CSQ 	SLAMDR12 	Disp 12 - South Los Angeles / Marina Del Rey [L-TAC 2]  	FM  	Law Dispatch
+483.76250  	WII789  	RM 	CSQ 	NWKPRV13 	Disp 13 - Norwalk / Pico Rivera [L-TAC 10]  	FM  	Law Dispatch
+483.13750  	WII789  	RM 	CSQ 	LKDCER14 	Disp 14 - Lakewood / Cerritos [L-TAC 3]  	FM  	Law Dispatch
+483.03750  	WII798  	RM 	CSQ 	LANPLM15 	Disp 15 - Lancaster / Palmdale [L-TAC 11]  	FM  	Law Dispatch
+484.11250  	WIM685  	RM 	100.0 PL 	LAKE DISP 	Lake Los Angeles / Bluerock / Antelope Valley [LAKE LTAC]  	FM  	Law Dispatch
+483.31250  	WIJ605  	RM 	CSQ 	TSB DISP 	Transit Services Bureau (TSB) / College Safety Bureau [TSB L-TAC]  	FM  	Law Dispatch
+453.62500  	KRW246  	RM 	136.5 PL 	TUNL DISP 	MTA Tunnel Dispatch (underground usage) [TUNL LTAC]  	FM  	Law Dispatch
+483.63750  	WIJ605  	RM 	CSQ 	AERO 	Aero Bureau Dispatch  	FM  	Law Dispatch
+483.53750  	WIJ605  	RM 	CSQ 	SUD 	Special Units Dispatch  	FM  	Law Dispatch
+
+483.91250  	KB94197  	RM 	CSQ 	L-TAC 1 	Malibu / Lost Hills / West Hollywood  	FM  	Law Tac
+482.88750  	KB94197  	RM 	CSQ 	L-TAC 2 	South LA / Lomita / Avalon / Marina Del Rey  	FM  	Law Tac
+483.38750  	KB94197  	RM 	CSQ 	L-TAC 3 	Lakewood / Cerritos  	FM  	Law Tac
+483.96250  	KB94197  	RM 	CSQ 	L-TAC 4 	Industry  	FM  	Law Tac
+483.46250  	KB94197  	RM 	CSQ 	L-TAC 5 	Carson / Compton  	FM  	Law Tac
+483.48750  	KB94197  	RM 	CSQ 	L-TAC 6 	East Los Angeles  	FM  	Law Tac
+483.23750  	KB94197  	RM 	CSQ 	L-TAC 7 	Walnut / San Dimas  	FM  	Law Tac
+483.11250  	KB94197  	RM 	CSQ 	L-TAC 8 	Crescenta Valley / Altadena / Santa Clarita  	FM  	Law Tac
+483.86250  	KB94197  	RM 	CSQ 	L-TAC 9 	Century  	FM  	Law Tac
+484.01250  	KB94197  	RM 	CSQ 	L-TAC 10 	Norwalk / Pico Rivera  	FM  	Law Tac
+483.18750  	KB94197  	RM 	CSQ 	L-TAC 11 	Palmdale / Lancaster (aka AV L-TAC)  	FM  	Law Tac
+483.41250  	KB94197  	RM 	CSQ 	L-TAC 12 	Temple City  	FM  	Law Tac
+476.06250  	WQJX521  	RM 	162.2 PL 	CPTMETRO 	Compton Metro Supplemental Tac  	FMN  	Law Tac
+476.18750  	WQJX539  	RM 	162.2 PL 	PLMMETRO 	Palmdale Metro Supplemental Tac  	FMN  	Law Tac
+453.47500  	KRW246  	RM 	136.5 PL 	TUNL LTAC 	TSB Tunnels  	FM  	Law Tac
+476.10000  	WQJX521  	RM 	162.2 PL 	PARKS TAC 	Parks Bureau Tac  	FM  	Law Tac
+476.11250  	WQJX544  	RM 	CSQ 	CIVCEN L-TAC 	County Services Bureau (CSB) Civic Center  	FM  	Law Tac
+476.12500  	WQJX523  	RM 	127.3 PL 	HIDESERTHOSP 	County Services Bureau (CSB) High Desert Regional Health Center  	FMN  	Law Tac
+476.12500  	WQJX536  	RM 	162.2 PL 	MLKMAC L-TAC 	County Services Bureau (CSB) MLK Multi-Service Ambulatory Care Center  	FMN  	Law Tac
+476.13750  	WQJX538  	RM 	162.2 PL 	HRBRMC L-TAC 	County Services Bureau (CSB) Harbor-UCLA Medical Center  	FMN  	Law Tac
+476.15000  	WQJX549  	RM 	CSQ 	RLANRC L-TAC 	County Services Bureau (CSB) Rancho Los Amigos Nat'l Rehab Ctr  	FM  	Law Tac
+476.16250  	WQJX552  	RM 	162.2 PL 	OVUCLA L-TAC 	County Services Bureau (CSB) Olive View-UCLA Medical Center  	FMN  	Law Tac
+483.06250  	WIJ605  	RM 	CSQ 	TSB L-TAC 	Transit Services Bureau (TSB) / College Safety Bureau  	FM  	Law Tac
+483.73750  	  	RM 	110.9 PL 	LAKE LTAC 	Lake Los Angeles (Bluerock / Antelope Valley)  	FM  	Law Tac
+483.88750  	WII825  	RM 	186.2 PL 	LACUSC L-TAC 	County Services Bureau (CSB) LAC+USC Medical Center  	FM  	Law Tac
+
+483.08750  	KB94197  	RM 	CSQ 	A-TAC 1 	North County Tactical  	FM  	Law Tac
+483.16250  	KB94197  	RM 	CSQ 	A-TAC 2 	West County Tactical  	FM  	Law Tac
+483.01250  	KB94197  	RM 	CSQ 	A-TAC 3 	East County Tactical  	FM  	Law Tac
+484.11250  	KB94197  	RM 	CSQ 	A-TAC 4 	South County Tactical  	FM  	Law Tac
+
+506.73750  	KJC625  	RM 	466 NAC 	1 CENTRAL 	Central (1)  	P25  	Law Dispatch
+506.93750  	KJC625  	RM 	466 NAC 	2 RAMPART 	Rampart (2)  	P25  	Law Dispatch
+506.98750  	KJC625  	RM 	466 NAC 	3 SOUTHWEST 	Southwest (3)  	P25  	Law Dispatch
+507.18750  	KJC625  	RM 	466 NAC 	4 HOLLENBECK 	Hollenbeck (4)  	P25  	Law Dispatch
+484.28750  	WIJ799  	RM 	466 NAC 	5 HARBOR 	Harbor (5)  	P25  	Law Dispatch
+507.21250  	KJC625  	RM 	466 NAC 	6 HOLLYWOOD 	Hollywood (6)  	P25  	Law Dispatch
+506.96250  	KJC625  	RM 	466 NAC 	7 WILSHIRE 	Wilshire (7)  	P25  	Law Dispatch
+506.76250  	KJC625  	RM 	466 NAC 	8 WEST LA 	West LA (8)  	P25  	Law Dispatch
+506.71250  	KJC625  	RM 	466 NAC 	9 VAN NUYS 	Van Nuys (9)  	P25  	Law Dispatch
+484.93750  	WIJ797  	RM 	466 NAC 	10 WEST VAL 	West Valley (10)  	P25  	Law Dispatch
+484.83750  	WIL882  	RM 	466 NAC 	11 NORTHEAST 	Northeast (11)  	P25  	Law Dispatch
+507.23750  	WIL886  	RM 	466 NAC 	12 77TH 	77th Street (12)  	P25  	Law Dispatch
+484.86250  	WIL882  	RM 	466 NAC 	13 NEWTON 	Newton (13)  	P25  	Law Dispatch
+484.38750  	WIJ803  	RM 	466 NAC 	14 PACIFIC 	Pacific (14)  	P25  	Law Dispatch
+484.96250  	WIJ797  	RM 	466 NAC 	15 NORTH HWD 	North Hollywood (15)  	P25  	Law Dispatch
+507.16250  	KJC625  	RM 	466 NAC 	16 FOOTHILL 	Foothill (16)  	P25  	Law Dispatch
+506.88750  	KJC625  	RM 	466 NAC 	17 DEVONSHRE 	Devonshire (17)  	P25  	Law Dispatch
+506.78750  	KJC625  	RM 	466 NAC 	18 SOUTHEAST 	Southeast (18)  	P25  	Law Dispatch
+484.88750  	WIJ797  	RM 	466 NAC 	19 MISSION 	Mission (19)  	P25  	Law Dispatch
+484.65000  	WPWJ856  	RM 	466 NAC 	20 OLYMPIC 	Olympic (20)  	P25  	Law Dispatch
+484.85000  	WPLQ342  	RM 	466 NAC 	21 TOPANGA 	Topanga (21)  	P25  	Law Dispatch
+484.36250  	WIJ803  	RM 	466 NAC 	22 WTD 	West Traffic (22)  	P25  	Law Dispatch
+484.91250  	WIJ797  	RM 	466 NAC 	23 VTD 	Valley Traffic (23)  	P25  	Law Dispatch
+484.81250  	WIL882  	RM 	466 NAC 	24 CTD 	Central Traffic (24)  	P25  	Law Dispatch
+484.33750  	WIJ799  	RM 	466 NAC 	25 STD 	South Traffic (25)  	P25  	Law Dispatch
+484.48750  	WPRJ338  	RM 	466 NAC 	29 SECSD 	Security Services Division (36)  	P25  	Law Dispatch
+506.58750  	WPLT625  	RM 	466 NAC 	48 TSD CW 6 	Transit Division (31)  	P25  	Law Dispatch
+506.70000  	WPLQ343  	RM 	466 NAC 	101 CENT FBK 	Central (1)  	P25  	Law Talk
+484.67500  	WPLQ343  	RM 	466 NAC 	102 RAMP FBK 	Rampart (2)  	P25  	Law Talk
+507.17500  	WPLQ343  	RM 	466 NAC 	103 SWD FBK 	Southwest (3)  	P25  	Law Talk
+484.62500  	WPLQ343  	RM 	466 NAC 	104 HOBK FBK 	Hollenbeck (4)  	P25  	Law Talk
+484.87500  	WPLQ343  	RM 	466 NAC 	105 HARB FBK 	Harbor (5)  	P25  	Law Talk
+506.60000  	WPLQ343  	RM 	466 NAC 	106 HWD FBK 	Hollywood (6)  	P25  	Law Talk
+484.55000  	WPLQ343  	RM 	466 NAC 	107 WIL FBK 	Wilshire (7)  	P25  	Law Talk
+484.97500  	WPLQ343  	RM 	466 NAC 	108 WLA FBK 	West LA (8)  	P25  	Law Talk
+506.97500  	WPLQ343  	RM 	466 NAC 	109 VNYS FBK 	Van Nuys (9)  	P25  	Law Talk
+507.20000  	WPLQ343  	RM 	466 NAC 	110 WVAL FBK 	West Valley (10)  	P25  	Law Talk
+484.57500  	WPLQ343  	RM 	466 NAC 	111 NOE FBK 	Northeast (11)  	P25  	Law Talk
+484.95000  	WPLQ343  	RM 	466 NAC 	112 77TH FBK 	77th Street (12)  	P25  	Law Talk
+506.82500  	WPLQ343  	RM 	466 NAC 	113 NEWT FBK 	Newton (13)  	P25  	Law Talk
+484.50000  	WPLQ343  	RM 	466 NAC 	114 PAC FBK 	Pacific (14)  	P25  	Law Talk
+484.80000  	WPLQ343  	RM 	466 NAC 	115 NHWD FBK 	North Hollywood (15)  	P25  	Law Talk
+506.80000  	WPLQ343  	RM 	466 NAC 	116 FTHL FBK 	Foothill (16)  	P25  	Law Talk
+484.30000  	WPLQ343  	RM 	466 NAC 	117 DEV FBK 	Devonshire (17)  	P25  	Law Talk
+506.72500  	WPLQ343  	RM 	466 NAC 	118 SOE FBK 	Southeast (18)  	P25  	Law Talk
+484.82500  	WPLQ343  	RM 	466 NAC 	119 MSN FBK 	Mission (19)  	P25  	Law Talk
+484.70000  	WQJN987  	RM 	466 NAC 	120 OLYM FBK 	Olympic (20)  	P25  	Law Talk
+484.37500  	WQJN987  	RM 	466 NAC 	121 TOP FBK 	Topanga (21)  	P25  	Law Talk
+484.60000  	WPLQ343  	RM 	466 NAC 	122 WTD FBK 	West Traffic (27)  	P25  	Law Talk
+506.75000  	WPLQ343  	RM 	466 NAC 	123 VTD FBK 	Valley Traffic (26)  	P25  	Law Talk
+484.52500  	WPLQ343  	RM 	466 NAC 	124 CTD FBK 	Central Traffic (24)  	P25  	Law Talk
+506.95000  	WPLQ343  	RM 	466 NAC 	125 STD FBK 	South Traffic (25)  	P25  	Law Talk
+507.11250  	WIL868  	RM 	466 NAC 	35 OCB TAC1 	Central Bureau Tac 1  	P25  	Law Tac
+484.78750  	WIL882  	RM 	466 NAC 	36 OCB TAC2 	Central Bureau Tac 2  	P25  	Law Tac
+507.03750  	KJC625  	RM 	466 NAC 	37 OSB TAC1 	South Bureau Tac 1  	P25  	Law Tac
+484.31250  	WIJ799  	RM 	466 NAC 	38 OSB TAC2 	South Bureau Tac 2  	P25  	Law Tac
+506.81250  	WIL886  	RM 	466 NAC 	39 OWB TAC1 	West Bureau Tac 1  	P25  	Law Tac
+484.41250  	WIJ803  	RM 	466 NAC 	40 OWB TAC2 	West Bureau Tac 2  	P25  	Law Tac
+507.01250  	WIL868  	RM 	466 NAC 	41 OVB TAC1 	Valley Bureau Tac 1  	P25  	Law Tac
+507.22500  	WIJ797  	RM 	466 NAC 	42 OVB TAC2 	Valley Bureau Tac 2  	P25  	Law Tac
+507.08750  	KJC625  	RM 	466 NAC 	43 CW TAC1 	Citywide Tac 1  	P25  	Law Tac
+484.66250  	WIL868  	RM 	466 NAC 	44 CW TAC2 	Citywide Tac 2  	P25  	Law Tac
+484.76250  	WIL868  	RM 	466 NAC 	45 CW TAC3 	Citywide Tac 3  	P25  	Law Tac
+484.46250  	WIL868  	RM 	466 NAC 	46 CW TAC4 	Citywide Tac 4  	P25  	Law Tac
+484.63750  	WIL868  	RM 	466 NAC 	47 CW TAC5 	Citywide Tac 5  	P25  	Law Tac
+484.98750  	WIL868  	RM 	466 NAC 	49 CW TAC7 	Citywide Tac 7  	P25  	Law Tac
+506.86250  	WPRJ338  	RM 	466 NAC 	30 JUVENILE 	Juvenile Division  	P25  	Law Tac
+506.36250  	WPRJ338  	RM 	466 NAC 	32 TID ADMIN 	Technical Investigation Division  	P25  	Law Tac
+484.56250  	WPRJ338  	RM 	466 NAC 	52 CCD 	Commercial Crimes  	P25e  	Law Tac
+484.73750  	WPRJ338  	RM 	466 NAC 	53 RHD 	Robbery Homicide Division  	P25  	Law Tac
+506.68750  	WPRJ338  	RM 	466 NAC 	54 GND 	Gang and Narcotics Division   	P25  	Law Tac
+506.61250  	WPRJ338  	RM 	466 NAC 	55 DSVD 1 	Detective Support / Vice Division 1  	P25  	Law Tac
+484.51250  	WPRJ338  	RM 	466 NAC 	56 DSVD 2 	Detective Support / Vice Division 2  	P25e  	Law Tac
+484.53750  	WPRJ338  	RM 	466 NAC 	57 GND 1 RED 	Gang and Narcotics Division Field Enforcement - Red  	P25e  	Law Tac
+484.68750  	WPRJ338  	RM 	466 NAC 	58 GND 2 BLU 	Gang and Narcotics Division - Blue  	P25e  	Law Tac
+484.61250  	WPRJ338  	RM 	466 NAC 	59 GND 3 GRN 	Gang and Narcotics Division - Green  	P25e  	Law Tac
+484.32500  	WPWJ856  	RM 	466 NAC 	60 NARC TEAM 	Narcotics Team Channel  	P25e  	Law Tac
+453.87500  	KTV832  	RM 	466 NAC 	61 GND ONT 	Gang and Narcotics Division - Johnstone Peak local repeater  	P25  	Law Tac
+453.87500  	WPRI681  	RM 	466 NAC 	62 GND SPL 	Gang and Narcotics Division - Special  	P25e  	Law Tac
+506.43750  	WPRJ338  	RM 	466 NAC 	63 MCD 	Major Crimes Division  	P25  	Law Tac
+152.88500  	  	M 	74.4 PL 	Surv / Special 	Surveillance / Specialized units / Bombsquad - "Ch.11"  	FMN  	Law Tac
+154.77000  	KMA367  	M 	100.0 PL 	Surveillance 	Surveillance  	FMN  	Law Tac
+154.77000  	KMA367  	M 	131.8 PL 	Surveillance 	Surveillance  	FMN  	Law Tac
+154.99500  	WNBE338  	M 	100.0 PL 	90 - SIS 3 	Special Investigation Section - Tac 3  	FM  	Law Tac
+484.71250  	WPRJ338  	RM 	466 NAC 	26 AIR/K9 	Hotshot/K-9/Air Hailing  	P25  	Law Dispatch
+484.90000  	WPWJ856  	RM 	466 NAC 	27 ASD 	Air Support Division   	P25E  	Law Talk
+506.46250  	WPRJ338  	RM 	466 NAC 	31 IAG 	Internal Affairs Group  	P25E  	Law Tac
+507.26250  	KJC625  	RM 	466 NAC 	50 EMERGENCY 	Emergency Trigger  	P25  	Emergency Ops
+484.43750  	WPRJ338  	RM 	110.9 PL 	51 LAPD ACC 	Outside Agency Access to LAPD (Analog)  	FM  	Law Talk
+506.53750  	WPRJ338  	RM 	466 NAC 	64 STAFF CMD 	Staff / Command  	P25e  	Law Tac
+506.83750  	KJC625  	RM 	466 NAC 	65 METRO 	Metro Division Base  	P25  	Law Tac
+484.58750  	WPRJ338  	RM 	466 NAC 	66 SWAT 	Metro Division SWAT  	P25  	Law Tac
+506.77500  	WPWJ856  	RM 	466 NAC 	67 METRO FBK 	Metro Division Talkaround  	P25  	Law Tac
+506.53750  	WPRJ338  	M 	293 NAC 	68 METRO SX 	Metro Division Simplex  	P25E  	Law Tac
+507.10000  	WPLQ343  	RM 	466 NAC 	127 PAC LAX 	LAX Substation (14)  	P25  	Law Tac
+506.87500  	WQLB240  	RM 	466 NAC 	248 JAIL DIV 	Jail Division - Metropolitan Detention Center   	P25  	Corrections
+484.23750  	  	M 	103.5 PL 	249 JAIL SX 	Jail Division - Simplex  	FMN  	Corrections
+488.96250  	  	M 	293 NAC 	250 ISU 70 S 	Investigative Support Unit 1  	P25E  	Law Tac
+491.96250  	  	M 	293 NAC 	251 ISU 80 S 	Investigative Support Unit 2  	P25E  	Law Tac
+484.75000  	WPLQ343  	M 	293 NAC 	252 EES 1 	Ethics Enforcement Section 1  	P25E  	Law Tac
+487.75000  	WPLQ343  	M 	293 NAC 	253 EES 2 	Ethics Enforcement Section 2  	P25E  	Law Tac
+484.35000  	WPRJ428  	RM 	466 NAC 	Hotshot OAT 	Hotshot (rebroadcast 484.7125) Oat Mt.  	P25  	Interop
+484.40000  	WPLQ341  	RM 	466 NAC 	Hotshot Harb 	Hotshot (rebroadcast 484.7125) Rolling Hills  	P25  	Interop
+484.92500  	WPLQ341  	RM 	466 NAC 	HBR5 Rebro 	Rebroadcast 484.2875 - Harbor Division (5)  	P25  	Interop
+484.47500  	WPVM496  	B 	445 DPL 	LAPD Telem 	Telemetry - Diagnostic system   	FM  	Data
+484.77500  	WPLQ343  	RM 	466 NAC 	FUTURE 	Future Use  	P25  	Law Tac
+506.85000  	WPLQ343  	RM 	466 NAC 	FUTURE 	Future Use  	P25  	Law Tac
+507.25000  	WPLQ343  	RM 	466 NAC 	FUTURE 	Future Use  	P25  	Law Tac
+851.18750  	WXZ989  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+851.26250  	KGE571  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+851.31250  	WXZ989  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+852.01250  	WXZ989  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+853.11250  	WXZ989  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+853.88750  	KGE571  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+854.08750  	KGE571  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+855.13750  	WXZ989  	BM 	CSQ 	LAPD MDT 	LAPD MDTs  	FM  	Data
+857.91250  	KGE571  	BM 	CSQ 	LAPD MDT 	LAPD MDT  	FM  	Data
