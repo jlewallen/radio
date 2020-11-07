@@ -1,4 +1,3 @@
-Namespace(file=['channels.txt'])
 Location,Name,Frequency
 0,Malibu Marine,162.425
 1,Los Angeles,162.550
