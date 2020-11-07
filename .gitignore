@@ -4,3 +4,4 @@ gqrx-scanner
 docs
 *.flatpak
 *.img
+build

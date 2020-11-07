@@ -1,7 +1,9 @@
-#!python3
+#!/usr/bin/env python3
+
 
 import sys
 import os
+import argparse
 
 
 class Channel:
@@ -33,7 +35,7 @@ def parse_channels(path):
             if "#keeping" in line:
                 keeping = not keeping
 
-            if line[0] == '#':
+            if line[0] == "#":
                 continue
 
             keep = True if "#keep" in line else keeping
@@ -49,8 +51,17 @@ def parse_channels(path):
 
     return channels
 
-channels = parse_channels("raw.txt")
 
-print(",".join(["Location", "Name", "Frequency"]))
-for i, channel in enumerate([c for c in channels if c.keep]):
-    print(",".join([str(i), channel.alpha, channel.freq]))
+def main():
+    parser = argparse.ArgumentParser(description="baofeng channel csv translator thing")
+    parser.add_argument("file", nargs="+", help="file to process")
+    args, nargs = parser.parse_known_args()
+
+    channels = parse_channels("channels.txt")
+    print(",".join(["Location", "Name", "Frequency"]))
+    for i, channel in enumerate([c for c in channels if c.keep]):
+        print(",".join([str(i), channel.alpha, channel.freq]))
+
+
+if __name__ == "__main__":
+    main()
