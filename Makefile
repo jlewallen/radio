@@ -9,7 +9,7 @@ sweeps: $(RENDERED)
 $(BUILD)/%.png: NAME = ${@:${BUILD}/%.png=%}
 
 $(BUILD)/%.png:
-	cpulimit `which python3` -l 50 -- tools/rtl-sdr-misc/heatmap/heatmap.py $(NAME) $@
+	time cpulimit `which python3` -f -l 50 -- tools/rtl-sdr-misc/heatmap/heatmap.py $(NAME) $@
 
 channels.csv: channels.txt
 	python3 baofeng-csv.py channels.txt > channels.csv
