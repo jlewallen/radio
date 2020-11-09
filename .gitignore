@@ -6,3 +6,9 @@ docs
 *.img
 build
 sweeps
+tools/gqrx
+tools/gr-osmosdr
+tools/hackrf
+tools/install
+tools/SoapySDR
+tools/SoapySDRPlay
